@@ -1,6 +1,7 @@
 <h1> 👋 Hi, I'm Asmita Deshpande! <br/><a >
 <h2> 🙇‍♂️Summary</h2>
-I am a MS in Information Systems student pursuing my graduation from the University of Maryland, Baltimore County. I have a Bachelor of Technology in Computer Engineering from MKSSS’s Cummins College of Engineering for Women, Pune, India. I possess a strong academic foundation coupled with practical skills in data analysis, database management, and project management.
+Actively pursuing roles as a Data and Business Analyst, armed with a Master of Science in Information Systems and a Bachelor of Technology in Computer Engineering. Proficient in leveraging data analysis and visualization tools such as Tableau and PowerBI to deliver actionable insights that drive strategic business decisions and enhance operational efficiency!
+
 
 <h2>👨‍💻 Skills</h2>
 <b><br>Core Skills:</b> Data Analysis and Visualization, Data Mining, Business Intelligence, Tableau, PowerBI, Python and Looker Studio. 
