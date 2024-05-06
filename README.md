@@ -4,20 +4,13 @@ Actively pursuing roles as a Data and Business Analyst, armed with a Master of S
 
 
 <h2>👨‍💻 Skills</h2>
-<b><br>Core Skills:</b> Data Analysis and Visualization, Data Mining, Business Intelligence, Tableau, PowerBI, Python and Looker Studio. 
-<b><br>Databases and Web Technologies:</b> SQL, PL/SQL, MySQL Workbench, HTML
-<b><br>Project and IT Service Management:</b> Agile, JIRA, Confluence, Artifactory, Microsoft Office, know the basics of Docker, Ansible and Kubernetes.
-
-<h2>👨‍💻 Projects:</h2>
-
-- <b> Data Mining (University of Maryland Baltimore County) </b>
-   - [Movie Recommendation System](https://github.com/asmitad13/UMBC_PROJECT_DATA-MINING)
-- <b>Advanced Databases (University of Maryland Baltimore County) </b>
-   - [Food Delivery Application](https://github.com/asmitad13/UMBC_PROJECT_ADVANCED_DATABASES)
+<b><br>Core Skills:</b> Data Analysis, Data Visualization, Data Mining, EDA, Business Intelligence, Business Analysis, Scrum Methodologies
+<b><br>Tools and Technology:</b>	Tableau, Power BI, Microsoft Office, Git, Jira, Confluence, Artifactory, My SQL Workbench, Google Analytics, Google Data Studio
+<b><br>Programming:</b>	SQL, PL/SQL, Python
 
 <h2>👨‍💻 Certifications </h2>
-1. LinkedIn: Tableau - Tableau Essential Training
-
+•	Certified ScrumMaster® (CSM®), Scrum Alliance 
+•	Tableau Essential Training, LinkedIn
 
 <h2> 🤳 Connect with me:</h2>
 
