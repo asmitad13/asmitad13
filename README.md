@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I'm Asmita Deshpande! <br/><a >
 <h2> 🙇‍♂️Summary</h2>
-Actively pursuing roles as a Data and Business Analyst, armed with a Master of Science in Information Systems and a Bachelor of Technology in Computer Engineering. Proficient in leveraging data analysis and visualization tools such as Tableau and PowerBI to deliver actionable insights that drive strategic business decisions and enhance operational efficiency!
+I am actively pursuing roles as a Data and Business Analyst, armed with a Master of Science in Information Systems and a Bachelor of Technology in Computer Engineering. Proficient in leveraging data analysis and visualization tools such as Tableau and PowerBI to deliver actionable insights that drive strategic business decisions and enhance operational efficiency!
 
 
 <h2>👨‍💻 Skills</h2>
