@@ -52,7 +52,7 @@ Dynamic professional with a Master of Science in Information Systems and a Bache
 <ul>
     <li><a href="mailto:addeshpande2024@gmail.com">Email</a></li>
     <li><a href="https://www.linkedin.com/in/asmita-deshpande/">LinkedIn</a></li>
-    <li><a href="https://public.tableau.com/app/profile/asmita.deshpande/vizzes">Tableau Public</a></li>
+    <li><a href="https://public.tableau.com/app/profile/asmita.deshpande/vizzes">Tableau</a></li>
 </ul>
 
 
