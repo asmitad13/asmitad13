@@ -1,7 +1,14 @@
 <h1> 👋 Hi, I'm Asmita Deshpande! <br/><a >
 
 <h2> Summary</h2>
-Dynamic professional with a Master of Science in Information Systems and a Bachelor of Technology in Computer Engineering, actively seeking opportunities as a Data and Business Analyst. Proficient in leveraging advanced data analysis techniques and visualization tools such as Tableau and Power BI, combined with experience in cloud platforms like AWS and Azure, to deliver actionable insights, drive strategic business decisions, and enhance operational efficiency.
+I am a data-driven professional with a Master of Science in Information Systems and a Bachelor’s in Computer Engineering. My passion lies in transforming raw data into actionable insights that enable organizations to make informed decisions and drive innovation. With proficiency in tools such as Tableau, Power BI, and Snowflake, alongside cloud platforms like AWS and Azure, I specialize in building scalable data solutions that improve efficiency and deliver measurable results.
+
+
+<br> Throughout my career, I’ve optimized data pipelines, automated workflows, and created intuitive dashboards that empower stakeholders to navigate complex business challenges. My technical expertise in Python, SQL, and ETL processes enables me to dive deep into data to uncover trends, solve problems, and create meaningful impact. I thrive in collaborative environments, leveraging Agile methodologies and tools like Jira and Confluence to ensure seamless project execution. 
+
+What sets me apart is my ability to bridge technical expertise with business strategy, delivering solutions that align with organizational goals. I am committed to continuous learning and excited to collaborate with professionals who share a passion for using data to drive success.
+
+Feel free to connect to discuss opportunities, exchange ideas, or explore potential collaborations. Let’s make an impact together!
 
 <h2>Skills</h2>
 <b><br>Data Science & Analytics :</b> Data Analysis, Data Visualization (Tableau, Power BI, Google Data Studio), Data Mining, Statistical Analysis, Exploratory Data Analysis (EDA), Business Intelligence  
