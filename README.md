@@ -20,30 +20,29 @@ Feel free to connect to discuss opportunities, exchange ideas, or explore potent
 <h3>Data Analyst</h3>
 <p><b>DXC Technology, India</b> — <em>July 2020 – July 2022</em></p>
 <ul>
-    <li>Developed automated Python scripts to optimize workflows, achieving a 25% improvement in customer satisfaction rate.</li>
-    <li>Designed and implemented dashboards using Tableau and Power BI, increasing operational efficiency by 25%.</li>
-    <li>Collaborated with Atlassian support to resolve Jira migration issues, enhancing functionality performance by 30%.</li>
-    <li>Managed tools like Jira, Confluence, and Artifactory, resolving 1000+ tickets and simplifying workflows for improved productivity.</li>
-    <li>Conducted data-driven performance reviews and shared insights with senior management, driving informed decision-making and continuous improvement initiatives.</li>
+<li>Built automated data pipelines in Python, processing 5M+ records and reducing ETL runtime by 30%.</li>
+<li>Developed interactive Tableau dashboards analyzing 50K+ financial records, improving executive decision-making efficiency by 40%.</li>
+<li>Automated Tableau reporting, cutting manual data processing by 60% and increasing reporting accuracy by 90%.</li>
+<li>Performed EDA using Python & Excel, uncovering insights that boosted revenue by 15%.</li>
 </ul>
 
 <h3>Student IT Project Assistant</h3>
 <p><b>University of Maryland Baltimore County, Baltimore, MD</b> — <em>Jan 2023 – May 2024</em></p>
 <ul>
-    <li>Automated routine data processing tasks using Python, SQL, and Snowflake, reducing manual effort by 40% and improving data accuracy across 5+ departments.</li>
-    <li>Optimized Tableau dashboards for financial KPIs, increasing data visualization efficiency by 30% and providing insights for university stakeholders.</li>
-    <li>Utilized Jira to manage project workflows and track milestones, ensuring timely delivery of key IT projects.</li>
-    <li>Conducted in-depth data analysis using Excel and Snowflake, identifying trends that influenced strategic decisions and enhanced resource allocation.</li>
-    <li>Provided system-level support for IT infrastructure and collaborated with Confluence for documentation and knowledge sharing.</li>
-</ul>
+    <li>Managed IT project workflows using JIRA, enhancing task tracking efficiency by 40% and ensuring on-time project completion.</li>
+    <li>Resolved 150+ IT support tickets, reducing resolution time by 40% and improving system uptime for faculty and students.</li>
+    <li>Administered university IT systems, implementing automated monitoring that reduced downtime by 25% and improved overall system reliability.</li>
+    <li>Optimized Confluence documentation for IT support processes, decreasing recurring technical issues by 35% and improving troubleshooting
+efficiency.</li>
+  </ul>
 
 <h3>Summer Data Intern</h3>
 <p><b>StarViso, India</b> — <em>May 2019 – July 2019</em></p>
 <ul>
-    <li>Administered and optimized relational databases using SQL, implementing indexing, query optimization, and normalization to improve performance by 30%.</li>
-    <li>Enhanced digital marketing campaigns and analyzed data, enhancing campaign performance by 15%.</li>
-    <li>Extracted and processed datasets from AWS RDS and S3 for SEO analytics, enhancing insights into user engagement and content performance.</li>
-    <li>Collaborated on implementing privacy measures to protect sensitive data while enabling secure and compliant analytics.</li>
+<li>Executed SQL queries to clean and analyze 100K+ records, improving data accuracy by 25% for reports.</li>
+    <li>Analyzed large datasets using SQL and Excel, identifying trends that enhanced data-driven decision-making for stakeholders.</li>
+    <li>Validated and corrected data in Excel, reducing reporting errors by 30% and ensuring high-quality insights.</li>
+    <li>Created automated Excel reports with pivot tables, streamlining weekly reporting and cutting manual effort by 40%.</li>
 </ul>
 
 <h2>Certifications </h2>
